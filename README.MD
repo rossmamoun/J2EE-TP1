@@ -1,12 +1,12 @@
 <h3>Compte rendu<h3>
 <h4>1-Creation de l'interface IDAO</h4>
-<img src="Captures/Capture.png">
+<img src="Captures/Capture.PNG">
 <h4>2-Implementation de l'interface IDAO</h4>
-<img src="Captures/2.png">
+<img src="Captures/2.PNG">
 <h4>3-Interface IMetier</h4>
-<img src="Captures/3.png">
+<img src="Captures/3.PNG">
 <h4>4-Implementation avec couplage faible</h4>
-<img src="Captures/4.png">
+<img src="Captures/4.PNG">
 <h4>5-Injection des dependances</h4>
 <h5>----Statique----</h5>
 <p>*Deuxieme implementation de l'interface IDAO*</p>
